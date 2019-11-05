@@ -1,4 +1,4 @@
-FROM ubuntu:disco-20191011
+FROM ubuntu:disco-20191030
 
 RUN apt update && \
     apt upgrade -y && \
